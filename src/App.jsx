@@ -28,7 +28,7 @@ const App = () => {
     { icon: FaRedditAlien, label: 'Reddit', url: 'https://reddit.com/u/sourin___69', color: '#FF4500' },
     { icon: Globe, label: 'Website', url: 'https://sourin.vercel.app', color: '#6366F1' },
     { icon: FaDiscord, label: 'Discord', url: 'https://discord.com/users/sourinuwu', color: '#633cff'},
-    { icon: FaXTwitter , label: 'X (Twitter)', url: '', color: '#ffffff'}
+    { icon: FaXTwitter , label: 'X (Twitter)', url: 'https://x.com/sourinstwt', color: '#ffffff'}
   ]
 
   const handleSubmit = async (e) => {
